@@ -1,8 +1,47 @@
-[{
+[
+  {
     "id": "1234",
     "name": "room",
     "description": "cozy",
     "city": "Burgas",
-     "beds" : 3,
-     "price": 130
-}]
+    "beds": 3,
+    "price": 130,
+    "imgUrl": "/static/assets/room1.jpg"
+  },
+  {
+    "id": "0015a4",
+    "name": "room",
+    "description": "cool room",
+    "city": "Бургас",
+    "beds": 2,
+    "price": 112,
+    "imgUrl": "/static/assets/room2.jpg"
+  },
+  {
+    "id": "05f769",
+    "name": "room",
+    "description": "cool room",
+    "city": "Бургас",
+    "beds": 2,
+    "price": 112,
+    "imgUrl": "/static/assets/room2.jpg"
+  },
+  {
+    "id": "088b5f",
+    "name": "room",
+    "description": "cool",
+    "city": "Бургас",
+    "beds": 3,
+    "price": 3,
+    "imgUrl": "/static/assets/room2.jpg"
+  },
+  {
+    "id": "0ad759",
+    "name": "room",
+    "description": "cool",
+    "city": "Бургас",
+    "beds": 3,
+    "price": 3,
+    "imgUrl": "/static/assets/room2.jpg"
+  }
+]
